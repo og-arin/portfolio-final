@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Skills = () => {
-  const stack = ["Python", "HTML","CSS", "Javascript", "Linux", "Networking", "Bash", "OSINT"];
+  const stack = ["Python", "HTML/CSS","SQL", "Javascript", "Linux", "Networking", "Bash", "OSINT"];
   return (
     <section id="skills" className="py-24 max-w-6xl mx-auto px-6">
       <h2 className="text-center text-white/10 text-9xl font-black mb-[-40px] tracking-tighter uppercase select-none">Expertise</h2>
