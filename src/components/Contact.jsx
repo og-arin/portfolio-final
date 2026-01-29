@@ -8,7 +8,7 @@ const Contact = () => {
         <h2 className="text-white text-3xl font-bold mb-8 tracking-tighter italic">Connect  with  Me</h2>
         <div className="flex justify-center gap-14 mb-10 text-ember">
           <a href="mailto:arink47200003@gmail.com" className="hover:scale-125 hover:text-white transition-all"><Mail size={32}/></a>
-          <a href="https://github.com/theguyinblackhoodie" className="hover:scale-125 hover:text-white transition-all"><Github size={32}/></a>
+          <a href="https://github.com/og-arin" className="hover:scale-125 hover:text-white transition-all"><Github size={32}/></a>
           <a href="https://www.linkedin.com/in/arin-kulkarni-30b981317" className="hover:scale-125 hover:text-white transition-all"><Linkedin size={32}/></a>
         </div>
         <p className="text-[9px] text-slate-600 tracking-[0.5em] uppercase">Status: Online // Connection Encrypted</p>
