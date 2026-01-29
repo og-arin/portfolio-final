@@ -6,19 +6,19 @@ const Projects = () => {
       title: "Omni-Recon", 
       desc: "A comprehensive reconnaissance framework designed to automate the initial stages of target discovery and information gathering.", 
       tag: "RECON / OSINT",
-      link: "https://github.com/theguyinblackhoodie/omni-recon" 
+      link: "https://github.com/og-arin/omni-recon" 
     },
     { 
       title: "Nmap Basics", 
       desc: "An essential guide to network discovery and security auditing using Nmap to identify active hosts and open ports.", 
       tag: "NETWORK SECURITY",
-      link: "https://github.com/theguyinblackhoodie/nmap-writeup" 
+      link: "https://github.com/og-arin/nmap-writeup" 
     },
     { 
       title: "Campus Connect", 
       desc: "A centralized student portal designed to streamline campus communication, resource management, and academic tracking.", 
       tag: "WEB APP / PORTAL",
-      link: "https://github.com/theguyinblackhoodie/campus-connect-portal" 
+      link: "https://github.com/og-arin/campus-connect-portal" 
     }
   ];
 
